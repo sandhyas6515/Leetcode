@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/sandhyas6515/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandhyas6515/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/sandhyas6515/Leetcode/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandhyas6515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/sandhyas6515/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/sandhyas6515/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
