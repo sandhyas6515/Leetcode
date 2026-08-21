@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sandhyas6515/Leetcode/tree/master/0179-largest-number) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandhyas6515/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sandhyas6515/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandhyas6515/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandhyas6515/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandhyas6515/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
