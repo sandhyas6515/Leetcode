@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sandhyas6515/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/sandhyas6515/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sandhyas6515/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandhyas6515/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandhyas6515/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sandhyas6515/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
