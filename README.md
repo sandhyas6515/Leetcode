@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhyas6515/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandhyas6515/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhyas6515/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sandhyas6515/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sandhyas6515/Leetcode/tree/master/0344-reverse-string) |
