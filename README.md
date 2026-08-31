@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sandhyas6515/Leetcode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sandhyas6515/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sandhyas6515/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/sandhyas6515/Leetcode/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sandhyas6515/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/sandhyas6515/Leetcode/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sandhyas6515/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/sandhyas6515/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandhyas6515/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandhyas6515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sandhyas6515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sandhyas6515/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 ## Linked List
 |  |
