@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sandhyas6515/Leetcode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/sandhyas6515/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sandhyas6515/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/sandhyas6515/Leetcode/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sandhyas6515/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
