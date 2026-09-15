@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/sandhyas6515/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sandhyas6515/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/sandhyas6515/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sandhyas6515/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sandhyas6515/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/sandhyas6515/Leetcode/tree/master/0908-smallest-range-i) |
+| [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/sandhyas6515/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/sandhyas6515/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandhyas6515/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
