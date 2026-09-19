@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhyas6515/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sandhyas6515/Leetcode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/sandhyas6515/Leetcode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sandhyas6515/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/sandhyas6515/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sandhyas6515/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandhyas6515/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/sandhyas6515/Leetcode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
