@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/sandhyas6515/Leetcode/tree/master/1328-break-a-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandhyas6515/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandhyas6515/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandhyas6515/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/sandhyas6515/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sandhyas6515/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sandhyas6515/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/sandhyas6515/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandhyas6515/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandhyas6515/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
