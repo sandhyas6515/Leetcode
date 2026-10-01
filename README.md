@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sandhyas6515/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sandhyas6515/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandhyas6515/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sandhyas6515/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sandhyas6515/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandhyas6515/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandhyas6515/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
