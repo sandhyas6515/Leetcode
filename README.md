@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sandhyas6515/Leetcode/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhyas6515/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandhyas6515/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhyas6515/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandhyas6515/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sandhyas6515/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/sandhyas6515/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhyas6515/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhyas6515/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandhyas6515/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
