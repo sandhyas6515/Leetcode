@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandhyas6515/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandhyas6515/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandhyas6515/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandhyas6515/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandhyas6515/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sandhyas6515/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sandhyas6515/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3453-separate-squares-i](https://github.com/sandhyas6515/Leetcode/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/sandhyas6515/Leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
