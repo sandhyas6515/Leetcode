@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandhyas6515/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sandhyas6515/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/sandhyas6515/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sandhyas6515/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sandhyas6515/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/sandhyas6515/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandhyas6515/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sandhyas6515/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Linked List
