@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sandhyas6515/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/sandhyas6515/Leetcode/tree/master/0525-contiguous-array) |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sandhyas6515/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/sandhyas6515/Leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/sandhyas6515/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sandhyas6515/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -435,4 +438,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sandhyas6515/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
