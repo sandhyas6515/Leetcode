@@ -451,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sandhyas6515/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
