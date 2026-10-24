@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandhyas6515/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandhyas6515/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/sandhyas6515/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/sandhyas6515/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandhyas6515/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandhyas6515/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
