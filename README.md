@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhyas6515/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sandhyas6515/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandhyas6515/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sandhyas6515/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/sandhyas6515/Leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandhyas6515/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/sandhyas6515/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/sandhyas6515/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sandhyas6515/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sandhyas6515/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -403,12 +407,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -469,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
