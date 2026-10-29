@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Cartesian Tree
 |  |
 | ------- |
