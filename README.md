@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sandhyas6515/Leetcode/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/sandhyas6515/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sandhyas6515/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sandhyas6515/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/sandhyas6515/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/sandhyas6515/Leetcode/tree/master/0832-flipping-an-image) |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sandhyas6515/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandhyas6515/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -516,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
