@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sandhyas6515/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandhyas6515/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sandhyas6515/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandhyas6515/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sandhyas6515/Leetcode/tree/master/3731-find-missing-elements) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/sandhyas6515/Leetcode/tree/master/0877-stone-game) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sandhyas6515/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [3693-climbing-stairs-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
