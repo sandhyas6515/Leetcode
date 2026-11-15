@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandhyas6515/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sandhyas6515/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sandhyas6515/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/sandhyas6515/Leetcode/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sandhyas6515/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sandhyas6515/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/sandhyas6515/Leetcode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/sandhyas6515/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/sandhyas6515/Leetcode/tree/master/0877-stone-game) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sandhyas6515/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sandhyas6515/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/sandhyas6515/Leetcode/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sandhyas6515/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandhyas6515/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Timsort
