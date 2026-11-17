@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1791-find-center-of-star-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Graph Coloring
 |  |
 | ------- |
