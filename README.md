@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandhyas6515/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sandhyas6515/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sandhyas6515/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandhyas6515/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sandhyas6515/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandhyas6515/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandhyas6515/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sandhyas6515/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandhyas6515/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sandhyas6515/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandhyas6515/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sandhyas6515/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sandhyas6515/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
