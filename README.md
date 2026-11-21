@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandhyas6515/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandhyas6515/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandhyas6515/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandhyas6515/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sandhyas6515/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sandhyas6515/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sandhyas6515/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sandhyas6515/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandhyas6515/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sandhyas6515/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/sandhyas6515/Leetcode/tree/master/3453-separate-squares-i) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
