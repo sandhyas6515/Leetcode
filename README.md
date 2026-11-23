@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandhyas6515/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sandhyas6515/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandhyas6515/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sandhyas6515/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sandhyas6515/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sandhyas6515/Leetcode/tree/master/0832-flipping-an-image) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandhyas6515/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandhyas6515/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Coloring
 |  |
 | ------- |
