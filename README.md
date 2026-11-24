@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sandhyas6515/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/sandhyas6515/Leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/sandhyas6515/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandhyas6515/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sandhyas6515/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sandhyas6515/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/sandhyas6515/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/sandhyas6515/Leetcode/tree/master/0832-flipping-an-image) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sandhyas6515/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sandhyas6515/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandhyas6515/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sandhyas6515/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/sandhyas6515/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandhyas6515/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandhyas6515/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
