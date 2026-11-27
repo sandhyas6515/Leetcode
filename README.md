@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandhyas6515/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sandhyas6515/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Prefix Sum
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandhyas6515/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -580,11 +582,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sandhyas6515/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/sandhyas6515/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sandhyas6515/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandhyas6515/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandhyas6515/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Coloring
 |  |
